@@ -18,7 +18,7 @@ namespace AppiumExamle
         private LoginScreen loginScreen;
         AndroidDriver<AndroidElement> driver;
         AppiumOptions capabilities;
-
+        
         [TestInitialize]
         public void Init()
         {
@@ -29,12 +29,12 @@ namespace AppiumExamle
             driver = new AndroidDriver<AndroidElement>(testServerAddress, capabilities, INIT_TIMEOUT_SEC);
             loginScreen = new LoginScreen(driver);
         }
-
+        
         [TestMethod]
         public void ValidData()
         {
-            loginScreen.WriteUsername("Arthas")
-                    .WritePassword("ForAzeroth");
+            loginScreen.WriteUsername(Environment.GetEnvironmentVariable("usernameValid"))
+                    .WritePassword(Environment.GetEnvironmentVariable("passwordValid"));
 
             Assert.AreEqual(true, loginScreen.ValidateUsername());
             Assert.AreEqual(true, loginScreen.ValidatePassword());
@@ -44,15 +44,15 @@ namespace AppiumExamle
         [TestMethod]
         public void NotValidEmail()
         {
-            loginScreen.WriteUsername("NotValid->@")
-                    .WritePassword("ILoveAutomaitionQA");
+            loginScreen.WriteUsername(Environment.GetEnvironmentVariable("usernameInValid"))
+                    .WritePassword(Environment.GetEnvironmentVariable("passwordValid"));
             Assert.AreEqual(false, loginScreen.ValidateUsername());
         }
         [TestMethod]
         public void NotValidPassword()
         {
-            loginScreen.WriteUsername("Arthas")
-                    .WritePassword("Lazy");
+            loginScreen.WriteUsername(Environment.GetEnvironmentVariable("usernameValid"))
+                    .WritePassword(Environment.GetEnvironmentVariable("passwordInValid"));
             Assert.AreEqual(false,loginScreen.ValidatePassword());
         }
         [TestMethod]
