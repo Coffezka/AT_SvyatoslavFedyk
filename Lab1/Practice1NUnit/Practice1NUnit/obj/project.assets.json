@@ -4785,11 +4785,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1NUnit\\Practice1NUnit.csproj",
+      "projectUniqueName": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1NUnit\\Practice1NUnit.csproj",
       "projectName": "Practice1NUnit",
-      "projectPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1NUnit\\Practice1NUnit.csproj",
+      "projectPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1NUnit\\Practice1NUnit.csproj",
       "packagesPath": "C:\\Users\\Svyatoslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1NUnit\\obj\\",
+      "outputPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1NUnit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svyatoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4805,8 +4805,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\App\\App.csproj": {
-              "projectPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\App\\App.csproj"
+            "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\App\\App.csproj": {
+              "projectPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\App\\App.csproj"
             }
           }
         }

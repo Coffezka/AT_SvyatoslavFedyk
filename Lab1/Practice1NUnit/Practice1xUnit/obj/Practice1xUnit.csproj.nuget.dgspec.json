@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1xUnit\\Practice1xUnit.csproj": {}
+    "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1xUnit\\Practice1xUnit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1xUnit\\Practice1xUnit.csproj": {
+    "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1xUnit\\Practice1xUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1xUnit\\Practice1xUnit.csproj",
+        "projectUniqueName": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1xUnit\\Practice1xUnit.csproj",
         "projectName": "Practice1xUnit",
-        "projectPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1xUnit\\Practice1xUnit.csproj",
+        "projectPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1xUnit\\Practice1xUnit.csproj",
         "packagesPath": "C:\\Users\\Svyatoslav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1xUnit\\obj\\",
+        "outputPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1xUnit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Svyatoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

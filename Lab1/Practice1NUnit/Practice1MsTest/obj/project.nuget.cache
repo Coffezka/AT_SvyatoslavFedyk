@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pus210hnTwWXpbOQW137NYgDUjTQ5ZoBbe2MO4qpPfzJ7bwx9DbkP0tLu10y5DXtkBYR7h53fZoD79JA5vm0Ug==",
+  "dgSpecHash": "I0/jBvNmHiujI086JGamVdGdZcBZT8QTfbp0/IKBVJ5Ssa9VHA/BxKM4wHxbnXztyYMPBqPoDCDxDYFKnXRhDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1MsTest\\Practice1MsTest.csproj",
+  "projectFilePath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1MsTest\\Practice1MsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",

@@ -154,11 +154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\App\\App.csproj",
+      "projectPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\App\\App.csproj",
       "packagesPath": "C:\\Users\\Svyatoslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\App\\obj\\",
+      "outputPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svyatoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

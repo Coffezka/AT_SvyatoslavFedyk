@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DdokUuTqqawK/5v6Z8Fs4CbaHpLgZyzixorQDB5ba6056nd4kMxZb7mZDDYqsK5DcnekjL7hqZ4ubbWBX25d/w==",
+  "dgSpecHash": "ad2JCWzJ9e+RFCNT2HxtTNW0ZIq60ppwpw5ZOlMITVKIq4AtanNU1wT7tjxeKcxGfVMNj2DxixPorjFtUKHqdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\App\\App.csproj",
+  "projectFilePath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",

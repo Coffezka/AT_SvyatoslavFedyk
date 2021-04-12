@@ -5859,11 +5859,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1MsTest\\Practice1MsTest.csproj",
+      "projectUniqueName": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1MsTest\\Practice1MsTest.csproj",
       "projectName": "Practice1MsTest",
-      "projectPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1MsTest\\Practice1MsTest.csproj",
+      "projectPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1MsTest\\Practice1MsTest.csproj",
       "packagesPath": "C:\\Users\\Svyatoslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1MsTest\\obj\\",
+      "outputPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1MsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svyatoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

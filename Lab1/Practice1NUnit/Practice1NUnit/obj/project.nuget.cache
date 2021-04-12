@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jUJ8KQvWX45KbliRIbtIwkSb81JPP5LcNWYuGML6YQ6Xy5oOhRBcB7Aewu/8n86V1TtEU53PsPv+MGnyThmgAQ==",
+  "dgSpecHash": "NWpi/dN6vuvdCXDxlECmx4nPSzgKUH+WlPy8l7sSWphsyKmqzpewI6pTH2+WPsY2pUSYAT3w5ZXnIarAd/FWqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice1NUnit\\Practice1NUnit\\Practice1NUnit.csproj",
+  "projectFilePath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab1\\Practice1NUnit\\Practice1NUnit\\Practice1NUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
