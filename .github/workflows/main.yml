@@ -14,5 +14,5 @@ jobs:
         uses: Azure/pipelines@v1
         with:
           azure-devops-project-url: https://dev.azure.com/svyatoslavfedyk/AT_SvyatoslavFedyk
-          azure-pipeline-name: 'AT_SvyatoslavFedyk-.NET Desktop-CI'
+          azure-pipeline-name: 'AT_SvyatoslavFedyk'
           azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
