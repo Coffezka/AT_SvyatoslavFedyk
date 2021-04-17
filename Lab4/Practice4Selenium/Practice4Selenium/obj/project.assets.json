@@ -4558,11 +4558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svyatoslav\\source\\repos\\Practice4Selenium\\Practice4Selenium\\Practice4Selenium.csproj",
+      "projectUniqueName": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab4\\Practice4Selenium\\Practice4Selenium\\Practice4Selenium.csproj",
       "projectName": "Practice4Selenium",
-      "projectPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice4Selenium\\Practice4Selenium\\Practice4Selenium.csproj",
+      "projectPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab4\\Practice4Selenium\\Practice4Selenium\\Practice4Selenium.csproj",
       "packagesPath": "C:\\Users\\Svyatoslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice4Selenium\\Practice4Selenium\\obj\\",
+      "outputPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab4\\Practice4Selenium\\Practice4Selenium\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svyatoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",

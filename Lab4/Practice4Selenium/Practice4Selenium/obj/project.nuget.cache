@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5nxt72RVifDGYYJcBir3q44ueyUqCR0Amy5aK5FL4AS71Q5mEu7jEXoD0ohXAE5MNVs+uhqYAPm4Sy7ZcI8Bw==",
+  "dgSpecHash": "+z++CcTGFOXvSFphL46py9ZE6DIPzpu500RFqbiB1ehIkDfDvag/OjSSotnJIJBMFETYe8KWJBXCTOJid88WGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svyatoslav\\source\\repos\\Practice4Selenium\\Practice4Selenium\\Practice4Selenium.csproj",
+  "projectFilePath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab4\\Practice4Selenium\\Practice4Selenium\\Practice4Selenium.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
