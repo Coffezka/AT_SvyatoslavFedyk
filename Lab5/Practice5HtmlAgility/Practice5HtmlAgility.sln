@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice5HtmlAgility", "Practice5HtmlAgility\Practice5HtmlAgility.csproj", "{8DE02D4C-FD83-44FF-B64F-12AFF8E4CD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE02D4C-FD83-44FF-B64F-12AFF8E4CD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE02D4C-FD83-44FF-B64F-12AFF8E4CD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE02D4C-FD83-44FF-B64F-12AFF8E4CD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE02D4C-FD83-44FF-B64F-12AFF8E4CD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2413661-230D-4BE0-A8F5-D88AEE42957F}
+	EndGlobalSection
+EndGlobal
