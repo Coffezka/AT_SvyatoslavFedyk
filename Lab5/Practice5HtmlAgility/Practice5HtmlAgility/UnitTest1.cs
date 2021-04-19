@@ -41,22 +41,20 @@ namespace Practice5HtmlAgility
                 Console.WriteLine(item.Split('/')[2].Split('-')[0]);
             }
 
-            string dUrl = "download-file-";
-            string eUrl = ".html";
 
 
             using (WebClient wc = new WebClient())
             {
                 foreach (var item in sortedLink)
                 {
-                    var main = url + dUrl + item + eUrl;
+                    var downloadUrl = url + "download-file-" + item + ".hmtl";
 
                     var saveFiles =  item + ".pdf";
 
-                    Console.WriteLine(main);
+                    Console.WriteLine(downloadUrl);
                     Console.WriteLine(saveFiles);
-                    //C: \Users\Svyatoslav\Desktop\Lab5\Practice5HtmlAgility\Practice5HtmlAgility\bin\Debug\netcoreapp3.1
-                    wc.DownloadFileAsync(new Uri(main), saveFiles);
+                    //C:\Users\Svyatoslav\Desktop\Lab5\Practice5HtmlAgility\Practice5HtmlAgility\bin\Debug\netcoreapp3.1
+                    wc.DownloadFileAsync(new Uri(downloadUrl), saveFiles);
 
                     while (wc.IsBusy)
                     {

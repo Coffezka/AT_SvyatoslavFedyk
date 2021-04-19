@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V0gPJFXCxTLxNRAcD2h1RPvZ+b4z8RkmkDNLZkiTXJOnZSiYGfjYfG8oF7twECKBRxtW8X/SlQpPZINbIaKRSg==",
+  "dgSpecHash": "GmHHA4zBqisFYoCOkPAqd6W5szEl79de8wVEIhlomve+r66xpHn5uK54xupPAQS5Ye+mvJT1RjdrzXggkOhhZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Svyatoslav\\Desktop\\Lab5\\Practice5HtmlAgility\\Practice5HtmlAgility\\Practice5HtmlAgility.csproj",
+  "projectFilePath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab5\\Practice5HtmlAgility\\Practice5HtmlAgility\\Practice5HtmlAgility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\htmlagilitypack\\1.11.31\\htmlagilitypack.1.11.31.nupkg.sha512",
     "C:\\Users\\Svyatoslav\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

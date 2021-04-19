@@ -4686,11 +4686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Svyatoslav\\Desktop\\Lab5\\Practice5HtmlAgility\\Practice5HtmlAgility\\Practice5HtmlAgility.csproj",
+      "projectUniqueName": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab5\\Practice5HtmlAgility\\Practice5HtmlAgility\\Practice5HtmlAgility.csproj",
       "projectName": "Practice5HtmlAgility",
-      "projectPath": "C:\\Users\\Svyatoslav\\Desktop\\Lab5\\Practice5HtmlAgility\\Practice5HtmlAgility\\Practice5HtmlAgility.csproj",
+      "projectPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab5\\Practice5HtmlAgility\\Practice5HtmlAgility\\Practice5HtmlAgility.csproj",
       "packagesPath": "C:\\Users\\Svyatoslav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Svyatoslav\\Desktop\\Lab5\\Practice5HtmlAgility\\Practice5HtmlAgility\\obj\\",
+      "outputPath": "C:\\Users\\Svyatoslav\\Desktop\\AT\\AT_Fedyk\\Lab5\\Practice5HtmlAgility\\Practice5HtmlAgility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Svyatoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
